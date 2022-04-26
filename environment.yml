@@ -9,6 +9,9 @@ dependencies:
   - clingo=5.5
   - python-clingox=1.0
   - jupyter=1.0
-  - graphviz
   - clingraph
+  - graphviz
+  - telingo=2.1
+  - pip
+
 
