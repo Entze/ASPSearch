@@ -68,4 +68,4 @@ edge_weight((12,14),6). edge_weight((14,12),9).
 edge_weight((13,14),7). edge_weight((14,13),5).
 
 mintime(1).
-maxtime(50).
+maxtime(30).
