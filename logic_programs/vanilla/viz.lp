@@ -1,3 +1,4 @@
+
 attr(edge, E, label, W) :- edge(E), edge_weight(E, W).
 attr(edge, E, dir, forward) :- edge(E).
 

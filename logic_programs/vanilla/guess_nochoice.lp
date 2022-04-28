@@ -1,3 +1,4 @@
+
 walk(E,T) :-
   edge(E), time(T),
   continue(T),

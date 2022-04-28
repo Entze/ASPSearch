@@ -1,3 +1,4 @@
+
 % ( 1, 2)   coste      17       16
 % ( 1,13)   coste      35       15
 % ( 2, 3)   coste      11        8
@@ -68,4 +69,4 @@ edge_weight((12,14),6). edge_weight((14,12),9).
 edge_weight((13,14),7). edge_weight((14,13),5).
 
 mintime(1).
-maxtime(30).
+%maxtime(30).

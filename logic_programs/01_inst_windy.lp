@@ -1,3 +1,4 @@
+
 node(1).
 node(2).
 node(3).
@@ -16,7 +17,5 @@ edge_weight((2,1), 100).
 edge_weight((3,2), 100).
 edge_weight((1,3), 100).
 
-
-
 mintime(1).
-maxtime(3).
+%maxtime(3).

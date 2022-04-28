@@ -1,0 +1,193 @@
+instance,horizon,guess variant,filter variant,grounding size,opt,bounds
+01,5,guess,filter,270,30 3,
+01,5,guess,filter_sophisticated,186,30 3,
+01,5,guess_sophisticated,filter,249,30 3,
+01,5,guess_sophisticated,filter_sophisticated,181,30 3,
+01,10,guess,filter,520,30 3,
+01,10,guess,filter_sophisticated,346,30 3,
+01,10,guess_sophisticated,filter,534,30 3,
+01,10,guess_sophisticated,filter_sophisticated,376,30 3,
+01,20,guess,filter,1020,30 3,
+01,20,guess,filter_sophisticated,666,30 3,
+01,20,guess_sophisticated,filter,1104,30 3,
+01,20,guess_sophisticated,filter_sophisticated,766,30 3,
+01,30,guess,filter,1520,30 3,
+01,30,guess,filter_sophisticated,986,30 3,
+01,30,guess_sophisticated,filter,1674,30 3,
+01,30,guess_sophisticated,filter_sophisticated,1156,30 3,
+01,40,guess,filter,2020,30 3,
+01,40,guess,filter_sophisticated,1306,30 3,
+01,40,guess_sophisticated,filter,2244,30 3,
+01,40,guess_sophisticated,filter_sophisticated,1546,30 3,
+01,50,guess,filter,2520,30 3,
+01,50,guess,filter_sophisticated,1626,30 3,
+01,50,guess_sophisticated,filter,2814,30 3,
+01,50,guess_sophisticated,filter_sophisticated,1936,30 3,
+01,75,guess,filter,3770,30 3,
+01,75,guess,filter_sophisticated,2426,30 3,
+01,75,guess_sophisticated,filter,4239,30 3,
+01,75,guess_sophisticated,filter_sophisticated,2911,30 3,
+01,100,guess,filter,5020,30 3,
+01,100,guess,filter_sophisticated,3226,30 3,
+01,100,guess_sophisticated,filter,5664,30 3,
+01,100,guess_sophisticated,filter_sophisticated,3886,30 3,
+01,250,guess,filter,12520,30 3,
+01,250,guess,filter_sophisticated,8026,30 3,
+01,250,guess_sophisticated,filter,14214,30 3,
+01,250,guess_sophisticated,filter_sophisticated,9736,30 3,
+01,500,guess,filter,25020,30 3,
+01,500,guess,filter_sophisticated,16026,30 3,
+01,500,guess_sophisticated,filter,28464,30 3,
+01,500,guess_sophisticated,filter_sophisticated,19486,30 3,
+01,750,guess,filter,37520,30 3,
+01,750,guess,filter_sophisticated,24026,30 3,
+01,750,guess_sophisticated,filter,42714,30 3,
+01,750,guess_sophisticated,filter_sophisticated,29236,30 3,
+01,1000,guess,filter,50020,30 3,
+01,1000,guess,filter_sophisticated,32026,30 3,
+01,1000,guess_sophisticated,filter,56964,30 3,
+01,1000,guess_sophisticated,filter_sophisticated,38986,30 3,
+02,5,guess,filter,437,,[30;*] [0;*]
+02,5,guess,filter_sophisticated,289,50 5,
+02,5,guess_sophisticated,filter,406,,[130;*] [0;*]
+02,5,guess_sophisticated,filter_sophisticated,284,,[130;*] [0;*]
+02,10,guess,filter,847,70 7,
+02,10,guess,filter_sophisticated,539,50 5,
+02,10,guess_sophisticated,filter,876,70 7,
+02,10,guess_sophisticated,filter_sophisticated,594,70 7,
+02,20,guess,filter,1667,70 7,
+02,20,guess,filter_sophisticated,1039,50 5,
+02,20,guess_sophisticated,filter,1816,70 7,
+02,20,guess_sophisticated,filter_sophisticated,1214,70 7,
+02,30,guess,filter,2487,70 7,
+02,30,guess,filter_sophisticated,1539,50 5,
+02,30,guess_sophisticated,filter,2756,70 7,
+02,30,guess_sophisticated,filter_sophisticated,1834,70 7,
+02,40,guess,filter,3307,70 7,
+02,40,guess,filter_sophisticated,2039,50 5,
+02,40,guess_sophisticated,filter,3696,70 7,
+02,40,guess_sophisticated,filter_sophisticated,2454,70 7,
+02,50,guess,filter,4127,70 7,
+02,50,guess,filter_sophisticated,2539,50 5,
+02,50,guess_sophisticated,filter,4636,70 7,
+02,50,guess_sophisticated,filter_sophisticated,3074,70 7,
+02,75,guess,filter,6177,70 7,
+02,75,guess,filter_sophisticated,3789,50 5,
+02,75,guess_sophisticated,filter,6986,70 7,
+02,75,guess_sophisticated,filter_sophisticated,4624,70 7,
+02,100,guess,filter,8227,70 7,
+02,100,guess,filter_sophisticated,5039,50 5,
+02,100,guess_sophisticated,filter,9336,70 7,
+02,100,guess_sophisticated,filter_sophisticated,6174,70 7,
+02,250,guess,filter,20527,70 7,
+02,250,guess,filter_sophisticated,12539,50 5,
+02,250,guess_sophisticated,filter,23436,70 7,
+02,250,guess_sophisticated,filter_sophisticated,15474,70 7,
+02,500,guess,filter,41027,70 7,
+02,500,guess,filter_sophisticated,25039,50 5,
+02,500,guess_sophisticated,filter,46936,70 7,
+02,500,guess_sophisticated,filter_sophisticated,30974,70 7,
+02,750,guess,filter,61527,70 7,
+02,750,guess,filter_sophisticated,37539,50 5,
+02,750,guess_sophisticated,filter,70436,70 7,
+02,750,guess_sophisticated,filter_sophisticated,46474,70 7,
+02,1000,guess,filter,82027,70 7,
+02,1000,guess,filter_sophisticated,50039,50 5,
+02,1000,guess_sophisticated,filter,93936,70 7,
+02,1000,guess_sophisticated,filter_sophisticated,61974,70 7,
+03,5,guess,filter,2173,,[120;*] [0;*]
+03,5,guess,filter_sophisticated,1025,,[145;*] [0;*]
+03,5,guess_sophisticated,filter,1077,,[35;*] [0;*]
+03,5,guess_sophisticated,filter_sophisticated,623,,
+03,10,guess,filter,4383,,[111;*] [0;*]
+03,10,guess,filter_sophisticated,1905,,[145;*] [0;*]
+03,10,guess_sophisticated,filter,3557,,[97;*] [0;*]
+03,10,guess_sophisticated,filter_sophisticated,1773,,[104;*] [0;*]
+03,20,guess,filter,8803,,[111;*] [0;*]
+03,20,guess,filter_sophisticated,3665,,[145;*] [0;*]
+03,20,guess_sophisticated,filter,8517,,[104;*] [0;*]
+03,20,guess_sophisticated,filter_sophisticated,4073,,[107;*] [0;*]
+03,30,guess,filter,13223,219 26,[178;219] [0;26]
+03,30,guess,filter_sophisticated,5425,161 21,
+03,30,guess_sophisticated,filter,13477,219 26,[169;219] [0;26]
+03,30,guess_sophisticated,filter_sophisticated,6373,219 26,[170;219] [0;26]
+03,40,guess,filter,17643,222 25,[175;222] [0;25]
+03,40,guess,filter_sophisticated,7185,161 21,
+03,40,guess_sophisticated,filter,18437,219 26,[167;219] [0;26]
+03,40,guess_sophisticated,filter_sophisticated,8673,227 28,[163;227] [0;28]
+03,50,guess,filter,22063,222 25,[174;222] [0;25]
+03,50,guess,filter_sophisticated,8945,161 21,
+03,50,guess_sophisticated,filter,23397,223 27,[161;223] [0;27]
+03,50,guess_sophisticated,filter_sophisticated,10973,238 26,[159;238] [0;26]
+03,75,guess,filter,33113,226 25,[175;226] [0;25]
+03,75,guess,filter_sophisticated,13345,161 21,
+03,75,guess_sophisticated,filter,35797,227 27,[161;227] [0;27]
+03,75,guess_sophisticated,filter_sophisticated,16723,223 26,[178;223] [0;26]
+03,100,guess,filter,44163,223 28,[172;223] [0;28]
+03,100,guess,filter_sophisticated,17745,161 21,[18;21]
+03,100,guess_sophisticated,filter,48197,225 26,[160;225] [0;26]
+03,100,guess_sophisticated,filter_sophisticated,22473,264 27,[158;264] [0;27]
+03,250,guess,filter,110463,227 27,[165;227] [0;27]
+03,250,guess,filter_sophisticated,44145,161 21,[14;21]
+03,250,guess_sophisticated,filter,122597,255 28,[155;255] [0;28]
+03,250,guess_sophisticated,filter_sophisticated,56973,301 37,[105;301] [0;37]
+03,500,guess,filter,220963,248 25,[139;248] [0;25]
+03,500,guess,filter_sophisticated,88145,161 21,[12;21]
+03,500,guess_sophisticated,filter,246597,260 28,[143;260] [0;28]
+03,500,guess_sophisticated,filter_sophisticated,114473,282 36,[105;282] [0;36]
+03,750,guess,filter,331463,235 27,[128;235] [0;27]
+03,750,guess,filter_sophisticated,132145,161 21,[12;21]
+03,750,guess_sophisticated,filter,370597,262 32,[141;262] [0;32]
+03,750,guess_sophisticated,filter_sophisticated,171973,295 30,[105;295] [0;30]
+03,1000,guess,filter,441963,260 28,[123;260] [0;28]
+03,1000,guess,filter_sophisticated,176145,248 27,[152;248] [0;27]
+03,1000,guess_sophisticated,filter,494597,261 35,[104;261] [0;35]
+03,1000,guess_sophisticated,filter_sophisticated,229473,614 62,[105;614] [0;62]
+04,5,guess,filter,1053036,,[72583;*] [0;*]
+04,5,guess,filter_sophisticated,38776,,[69377;*] [0;*]
+04,5,guess_sophisticated,filter,32708,,
+04,5,guess_sophisticated,filter_sophisticated,10070,,
+04,10,guess,filter,2349376,,[193958;*] [0;*]
+04,10,guess,filter_sophisticated,71356,,[393297;*] [0;*]
+04,10,guess_sophisticated,filter,1112940,,[13340;*] [0;*]
+04,10,guess_sophisticated,filter_sophisticated,48872,,[41914;*] [0;*]
+04,20,guess,filter,4942056,,[193463;*] [0;*]
+04,20,guess,filter_sophisticated,136516,,[393297;*] [0;*]
+04,20,guess_sophisticated,filter,3726860,,[112182;*] [0;*]
+04,20,guess_sophisticated,filter_sophisticated,135272,,[358548;*] [0;*]
+04,30,guess,filter,7534736,,[215662;*] [0;*]
+04,30,guess,filter_sophisticated,201676,,[393297;*] [0;*]
+04,30,guess_sophisticated,filter,6340780,,[249199;*] [0;*]
+04,30,guess_sophisticated,filter_sophisticated,221672,,[353080;*] [0;*]
+04,40,guess,filter,10127416,,[216662;*] [0;*]
+04,40,guess,filter_sophisticated,266836,,[393297;*] [0;*]
+04,40,guess_sophisticated,filter,8954700,,[267888;*] [0;*]
+04,40,guess_sophisticated,filter_sophisticated,308072,,[362072;*] [0;*]
+04,50,guess,filter,12720096,,[201485;*] [0;*]
+04,50,guess,filter_sophisticated,331996,,[393297;*] [0;*]
+04,50,guess_sophisticated,filter,11568620,,[275122;*] [0;*]
+04,50,guess_sophisticated,filter_sophisticated,394472,,[360939;*] [0;*]
+04,75,guess,filter,19201796,,[194867;*] [0;*]
+04,75,guess,filter_sophisticated,494896,,[393297;*] [0;*]
+04,75,guess_sophisticated,filter,18103420,,[269519;*] [0;*]
+04,75,guess_sophisticated,filter_sophisticated,610472,,[360346;*] [0;*]
+04,100,guess,filter,25683496,,
+04,100,guess,filter_sophisticated,657796,,[393297;*] [0;*]
+04,100,guess_sophisticated,filter,24638220,,
+04,100,guess_sophisticated,filter_sophisticated,826472,,[353761;*] [0;*]
+04,250,guess,filter,64573696,,
+04,250,guess,filter_sophisticated,1635196,,[393297;*] [0;*]
+04,250,guess_sophisticated,filter,63847020,,
+04,250,guess_sophisticated,filter_sophisticated,2122472,,[357933;*] [0;*]
+04,500,guess,filter,129390696,,
+04,500,guess,filter_sophisticated,3264196,,[361956;*] [0;*]
+04,500,guess_sophisticated,filter,129195020,,
+04,500,guess_sophisticated,filter_sophisticated,4282472,,[336127;*] [0;*]
+04,750,guess,filter,194207696,,
+04,750,guess,filter_sophisticated,4893196,,[245395;*] [0;*]
+04,750,guess_sophisticated,filter,194543020,,
+04,750,guess_sophisticated,filter_sophisticated,6442472,,[215484;*] [0;*]
+04,1000,guess,filter,259024696,,
+04,1000,guess,filter_sophisticated,6522196,,[168649;*] [0;*]
+04,1000,guess_sophisticated,filter,259891020,,
+04,1000,guess_sophisticated,filter_sophisticated,8602472,,[136415;*] [0;*]
