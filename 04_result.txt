@@ -1,0 +1,644 @@
+clingo version 5.5.1
+Reading from logic_programs/04_inst_windy.lp ...
+Reading      : 141.729
+Preprocessing: 147.931
+Solving...
+----------------------------------------------------------------------------|
+ID:T       Info                     Info                      Info          |
+----------------------------------------------------------------------------|
+ 0:X| SYNC            sent                                                  |
+ 1:L| [Solving+0.001s]               attach                                 |
+ 3:L| [Solving+0.001s]               attach                                 |
+ 2:L| [Solving+0.001s]               attach                                 |
+ 5:L| [Solving+0.001s]               attach                                 |
+ 4:L| [Solving+0.001s]               attach                                 |
+ 6:L| [Solving+0.001s]               attach                                 |
+ 7:L| [Solving+0.001s]               attach                                 |
+ 8:L| [Solving+0.001s]               attach                                 |
+10:L| [Solving+0.001s]               attach                                 |
+ 9:L| [Solving+0.001s]               attach                                 |
+11:L| [Solving+0.001s]               attach                                 |
+12:L| [Solving+0.001s]               attach                                 |
+13:L| [Solving+0.001s]               attach                                 |
+ 0:L| [Solving+0.001s]               attach                                 |
+15:L| [Solving+0.001s]               attach                                 |
+14:L| [Solving+0.001s]               attach                                 |
+13:X| SYNC            received                                              |
+14:X| SYNC            received                                              |
+ 2:X| SYNC            received                                              |
+ 9:X| SYNC            received                                              |
+ 6:X| SYNC            received                                              |
+11:X| SYNC            received                                              |
+ 4:X| SYNC            received                                              |
+15:X| SYNC            received                                              |
+ 5:X| SYNC            received                                              |
+ 3:X| SYNC            received                                              |
+ 7:X| SYNC            received                                              |
+ 1:X| SYNC            received                                              |
+ 8:X| SYNC            received                                              |
+12:X| SYNC            received                                              |
+10:X| SYNC            received                                              |
+10:X| SYNC            completed                           in         3.436s |
+Progression : [1289;inf]
+Progression : [2487;inf]
+Progression : [3657;inf]
+Progression : [4782;inf]
+Progression : [5900;inf]
+Progression : [7002;inf]
+Progression : [8090;inf]
+Progression : [9158;inf]
+Progression : [10225;inf]
+Progression : [11274;inf]
+Progression : [12309;inf]
+Progression : [13340;inf]
+Progression : [14369;inf]
+Progression : [15386;inf]
+Progression : [16392;inf]
+Progression : [17390;inf]
+Progression : [18387;inf]
+Progression : [19366;inf]
+Progression : [20336;inf]
+Progression : [21302;inf]
+Progression : [22266;inf]
+Progression : [23220;inf]
+Progression : [24172;inf]
+Progression : [25115;inf]
+Progression : [26050;inf]
+Progression : [26984;inf]
+Progression : [27906;inf]
+Progression : [28822;inf]
+Progression : [29737;inf]
+Progression : [30651;inf]
+Progression : [31563;inf]
+Progression : [32474;inf]
+Progression : [33382;inf]
+Progression : [34288;inf]
+Progression : [35192;inf]
+Progression : [36094;inf]
+Progression : [36995;inf]
+Progression : [37896;inf]
+Progression : [38796;inf]
+Progression : [39694;inf]
+Progression : [40565;inf]
+Progression : [41436;inf]
+Progression : [42302;inf]
+Progression : [43166;inf]
+Progression : [44027;inf]
+Progression : [44880;inf]
+Progression : [45731;inf]
+Progression : [46581;inf]
+Progression : [47430;inf]
+Progression : [48279;inf]
+Progression : [49115;inf]
+Progression : [49950;inf]
+Progression : [50782;inf]
+Progression : [51612;inf]
+Progression : [52441;inf]
+Progression : [53266;inf]
+Progression : [54090;inf]
+Progression : [54913;inf]
+Progression : [55729;inf]
+Progression : [56540;inf]
+Progression : [57342;inf]
+Progression : [58137;inf]
+Progression : [58923;inf]
+Progression : [59705;inf]
+Progression : [60481;inf]
+Progression : [61256;inf]
+Progression : [62030;inf]
+Progression : [62801;inf]
+Progression : [63571;inf]
+Progression : [64336;inf]
+Progression : [65092;inf]
+Progression : [65847;inf]
+Progression : [66601;inf]
+Progression : [67354;inf]
+Progression : [68106;inf]
+Progression : [68856;inf]
+Progression : [69604;inf]
+Progression : [70351;inf]
+Progression : [71096;inf]
+Progression : [71841;inf]
+Progression : [72583;inf]
+Progression : [73322;inf]
+Progression : [74060;inf]
+Progression : [74797;inf]
+Progression : [75531;inf]
+Progression : [76264;inf]
+Progression : [76996;inf]
+Progression : [77727;inf]
+Progression : [78451;inf]
+Progression : [79175;inf]
+Progression : [79897;inf]
+Progression : [80615;inf]
+Progression : [81332;inf]
+Progression : [82042;inf]
+Progression : [82750;inf]
+Progression : [83456;inf]
+Progression : [84162;inf]
+Progression : [84866;inf]
+Progression : [85569;inf]
+Progression : [86271;inf]
+Progression : [86971;inf]
+Progression : [87668;inf]
+Progression : [88365;inf]
+Progression : [89061;inf]
+Progression : [89757;inf]
+Progression : [90449;inf]
+Progression : [91140;inf]
+Progression : [91818;inf]
+Progression : [92492;inf]
+Progression : [93166;inf]
+Progression : [93834;inf]
+Progression : [94501;inf]
+Progression : [95167;inf]
+Progression : [95831;inf]
+Progression : [96494;inf]
+Progression : [97157;inf]
+Progression : [97819;inf]
+Progression : [98479;inf]
+Progression : [99135;inf]
+Progression : [99785;inf]
+Progression : [100432;inf]
+Progression : [101079;inf]
+Progression : [101723;inf]
+Progression : [102367;inf]
+Progression : [103010;inf]
+Progression : [103652;inf]
+Progression : [104290;inf]
+Progression : [104923;inf]
+Progression : [105555;inf]
+Progression : [106183;inf]
+Progression : [106808;inf]
+Progression : [107431;inf]
+Progression : [108053;inf]
+Progression : [108674;inf]
+Progression : [109288;inf]
+Progression : [109899;inf]
+Progression : [110507;inf]
+Progression : [111114;inf]
+Progression : [111718;inf]
+Progression : [112318;inf]
+Progression : [112911;inf]
+Progression : [113500;inf]
+Progression : [114085;inf]
+Progression : [114669;inf]
+Progression : [115249;inf]
+Progression : [115829;inf]
+Progression : [116408;inf]
+Progression : [116983;inf]
+Progression : [117557;inf]
+Progression : [118126;inf]
+Progression : [118688;inf]
+Progression : [119249;inf]
+Progression : [119809;inf]
+Progression : [120363;inf]
+Progression : [120917;inf]
+Progression : [121470;inf]
+Progression : [122023;inf]
+Progression : [122575;inf]
+Progression : [123125;inf]
+Progression : [123675;inf]
+Progression : [124224;inf]
+Progression : [124769;inf]
+Progression : [125314;inf]
+Progression : [125858;inf]
+Progression : [126400;inf]
+Progression : [126929;inf]
+Progression : [127456;inf]
+Progression : [127982;inf]
+Progression : [128506;inf]
+Progression : [129028;inf]
+Progression : [129548;inf]
+Progression : [130063;inf]
+Progression : [130569;inf]
+Progression : [131075;inf]
+Progression : [131581;inf]
+Progression : [132086;inf]
+Progression : [132591;inf]
+Progression : [133094;inf]
+Progression : [133597;inf]
+Progression : [134098;inf]
+Progression : [134597;inf]
+Progression : [135095;inf]
+Progression : [135591;inf]
+Progression : [136082;inf]
+Progression : [136571;inf]
+Progression : [137059;inf]
+Progression : [137537;inf]
+Progression : [138007;inf]
+Progression : [138467;inf]
+Progression : [138926;inf]
+Progression : [139384;inf]
+Progression : [139838;inf]
+Progression : [140291;inf]
+Progression : [140744;inf]
+Progression : [141195;inf]
+Progression : [141641;inf]
+Progression : [142083;inf]
+Progression : [142519;inf]
+Progression : [142953;inf]
+Progression : [143386;inf]
+Progression : [143819;inf]
+Progression : [144251;inf]
+Progression : [144681;inf]
+Progression : [145110;inf]
+Progression : [145537;inf]
+Progression : [145961;inf]
+Progression : [146384;inf]
+Progression : [146805;inf]
+Progression : [147222;inf]
+Progression : [147639;inf]
+Progression : [148053;inf]
+Progression : [148463;inf]
+Progression : [148872;inf]
+Progression : [149279;inf]
+Progression : [149685;inf]
+Progression : [150089;inf]
+Progression : [150488;inf]
+Progression : [150886;inf]
+Progression : [151283;inf]
+Progression : [151678;inf]
+Progression : [152073;inf]
+Progression : [152466;inf]
+Progression : [152859;inf]
+Progression : [153250;inf]
+Progression : [153640;inf]
+Progression : [154027;inf]
+Progression : [154414;inf]
+Progression : [154800;inf]
+Progression : [155185;inf]
+Progression : [155566;inf]
+Progression : [155947;inf]
+Progression : [156326;inf]
+Progression : [156705;inf]
+Progression : [157084;inf]
+Progression : [157462;inf]
+Progression : [157839;inf]
+Progression : [158214;inf]
+Progression : [158588;inf]
+Progression : [158962;inf]
+Progression : [159336;inf]
+Progression : [159709;inf]
+Progression : [160081;inf]
+Progression : [160450;inf]
+Progression : [160818;inf]
+Progression : [161186;inf]
+Progression : [161551;inf]
+Progression : [161915;inf]
+Progression : [162277;inf]
+Progression : [162638;inf]
+Progression : [162997;inf]
+Progression : [163356;inf]
+Progression : [163715;inf]
+Progression : [164072;inf]
+Progression : [164427;inf]
+Progression : [164782;inf]
+Progression : [165136;inf]
+Progression : [165490;inf]
+Progression : [165844;inf]
+Progression : [166197;inf]
+Progression : [166550;inf]
+Progression : [166901;inf]
+Progression : [167252;inf]
+Progression : [167603;inf]
+Progression : [167951;inf]
+Progression : [168298;inf]
+Progression : [168645;inf]
+Progression : [168989;inf]
+Progression : [169331;inf]
+Progression : [169673;inf]
+Progression : [170011;inf]
+Progression : [170332;inf]
+Progression : [170651;inf]
+Progression : [170967;inf]
+Progression : [171283;inf]
+Progression : [171591;inf]
+Progression : [171896;inf]
+Progression : [172200;inf]
+Progression : [172498;inf]
+Progression : [172789;inf]
+Progression : [173076;inf]
+Progression : [173363;inf]
+Progression : [173649;inf]
+Progression : [173934;inf]
+Progression : [174216;inf]
+Progression : [174498;inf]
+Progression : [174779;inf]
+Progression : [175057;inf]
+Progression : [175335;inf]
+Progression : [175613;inf]
+Progression : [175889;inf]
+Progression : [176165;inf]
+Progression : [176439;inf]
+Progression : [176712;inf]
+Progression : [176984;inf]
+Progression : [177255;inf]
+Progression : [177525;inf]
+Progression : [177795;inf]
+Progression : [178064;inf]
+Progression : [178332;inf]
+Progression : [178596;inf]
+Progression : [178860;inf]
+Progression : [179123;inf]
+Progression : [179386;inf]
+Progression : [179646;inf]
+Progression : [179905;inf]
+Progression : [180160;inf]
+Progression : [180415;inf]
+Progression : [180667;inf]
+Progression : [180917;inf]
+Progression : [181166;inf]
+Progression : [181414;inf]
+Progression : [181661;inf]
+Progression : [181905;inf]
+Progression : [182149;inf]
+Progression : [182392;inf]
+Progression : [182635;inf]
+Progression : [182874;inf]
+Progression : [183111;inf]
+Progression : [183342;inf]
+Progression : [183572;inf]
+Progression : [183802;inf]
+Progression : [184032;inf]
+Progression : [184258;inf]
+Progression : [184482;inf]
+Progression : [184705;inf]
+Progression : [184923;inf]
+Progression : [185139;inf]
+Progression : [185347;inf]
+Progression : [185552;inf]
+Progression : [185744;inf]
+Progression : [185932;inf]
+Progression : [186116;inf]
+Progression : [186298;inf]
+Progression : [186477;inf]
+Progression : [186646;inf]
+Progression : [186811;inf]
+Progression : [186975;inf]
+Progression : [187138;inf]
+Progression : [187301;inf]
+Progression : [187461;inf]
+Progression : [187617;inf]
+Progression : [187772;inf]
+Progression : [187926;inf]
+Progression : [188080;inf]
+Progression : [188232;inf]
+Progression : [188382;inf]
+Progression : [188528;inf]
+Progression : [188673;inf]
+Progression : [188817;inf]
+Progression : [188958;inf]
+Progression : [189098;inf]
+Progression : [189231;inf]
+Progression : [189363;inf]
+Progression : [189495;inf]
+Progression : [189622;inf]
+Progression : [189748;inf]
+Progression : [189872;inf]
+Progression : [189995;inf]
+Progression : [190117;inf]
+Progression : [190238;inf]
+Progression : [190358;inf]
+Progression : [190476;inf]
+Progression : [190590;inf]
+Progression : [190701;inf]
+Progression : [190809;inf]
+Progression : [190915;inf]
+Progression : [191017;inf]
+Progression : [191112;inf]
+Progression : [191204;inf]
+Progression : [191295;inf]
+Progression : [191386;inf]
+Progression : [191472;inf]
+Progression : [191554;inf]
+Progression : [191636;inf]
+Progression : [191714;inf]
+Progression : [191790;inf]
+Progression : [191852;inf]
+Progression : [191914;inf]
+Progression : [191974;inf]
+Progression : [192032;inf]
+Progression : [192088;inf]
+Progression : [192142;inf]
+Progression : [192195;inf]
+Progression : [192246;inf]
+Progression : [192295;inf]
+Progression : [192343;inf]
+Progression : [192389;inf]
+Progression : [192434;inf]
+Progression : [192478;inf]
+Progression : [192517;inf]
+Progression : [192554;inf]
+Progression : [192585;inf]
+Progression : [192615;inf]
+Progression : [192643;inf]
+Progression : [192667;inf]
+Progression : [192674;inf]
+Progression : [192680;inf]
+Progression : [192681;inf]
+Progression : [192682;inf]
+Progression : [192683;inf]
+Progression : [192702;inf]
+Progression : [192863;inf]
+Progression : [192864;inf]
+Progression : [192961;inf]
+Progression : [193457;inf]
+Progression : [193996;inf]
+Progression : [194421;inf]
+Progression : [195088;inf]
+Progression : [195545;inf]
+Progression : [195969;inf]
+Progression : [196424;inf]
+Progression : [196743;inf]
+Progression : [197436;inf]
+Progression : [197997;inf]
+Progression : [198476;inf]
+Progression : [199017;inf]
+Progression : [199179;inf]
+Progression : [199302;inf]
+Progression : [199623;inf]
+Progression : [199856;inf]
+Progression : [200311;inf]
+Progression : [200636;inf]
+Progression : [200946;inf]
+Progression : [201435;inf]
+Progression : [201748;inf]
+Progression : [201958;inf]
+Progression : [202446;inf]
+Progression : [202784;inf]
+Progression : [203265;inf]
+Progression : [203767;inf]
+Progression : [204252;inf]
+Progression : [204566;inf]
+Progression : [205083;inf]
+Progression : [205748;inf]
+Progression : [206203;inf]
+Progression : [206389;inf]
+Progression : [206512;inf]
+Progression : [206758;inf]
+Progression : [207069;inf]
+Progression : [207243;inf]
+Progression : [207516;inf]
+Progression : [207971;inf]
+Progression : [208094;inf]
+Progression : [208217;inf]
+Progression : [208512;inf]
+Progression : [208853;inf]
+Progression : [209070;inf]
+Progression : [209408;inf]
+Progression : [209979;inf]
+Progression : [210360;inf]
+Progression : [210631;inf]
+Progression : [210876;inf]
+Progression : [211172;inf]
+Progression : [211866;inf]
+ 6:X| TERMINATE       received                                              |
+ 2:X| TERMINATE       received                                              |
+ 0:X| TERMINATE       received                                              |
+----------------------------------------------------------------------------|
+ID:T       Info                     Info                      Info          |
+----------------------------------------------------------------------------|
+14:X| TERMINATE       received                                              |
+15:X| TERMINATE       received                                              |
+ 9:X| TERMINATE       received                                              |
+ 7:X| TERMINATE       received                                              |
+ 1:X| TERMINATE       received                                              |
+ 5:X| TERMINATE       received                                              |
+ 2:L| [Solving+1506.970s]            detach                                 |
+ 3:X| TERMINATE       received                                              |
+ 2:L| [Solving+1506.970s]            detached db                            |
+10:X| TERMINATE       received                                              |
+10:L| [Solving+1506.977s]            detach                                 |
+ 7:L| [Solving+1506.977s]            detach                                 |
+ 7:L| [Solving+1506.977s]            detached db                            |
+10:L| [Solving+1506.977s]            detached db                            |
+12:X| TERMINATE       received                                              |
+ 4:X| TERMINATE       received                                              |
+15:L| [Solving+1506.991s]            detach                                 |
+15:L| [Solving+1506.991s]            detached db                            |
+12:L| [Solving+1507.000s]            detach                                 |
+12:L| [Solving+1507.001s]            detached db                            |
+ 8:X| TERMINATE       received                                              |
+ 5:L| [Solving+1507.013s]            detach                                 |
+ 5:L| [Solving+1507.013s]            detached db                            |
+ 8:L| [Solving+1507.025s]            detach                                 |
+ 8:L| [Solving+1507.025s]            detached db                            |
+11:X| TERMINATE       received                                              |
+ 3:L| [Solving+1507.061s]            detach                                 |
+ 3:L| [Solving+1507.061s]            detached db                            |
+11:L| [Solving+1507.070s]            detach                                 |
+11:L| [Solving+1507.070s]            detached db                            |
+ 4:L| [Solving+1507.072s]            detach                                 |
+ 4:L| [Solving+1507.073s]            detached db                            |
+13:X| TERMINATE       received                                              |
+13:L| [Solving+1507.091s]            detach                                 |
+13:L| [Solving+1507.091s]            detached db                            |
+ 0:L| [Solving+1507.093s]            joining with other threads             |
+ 1:L| [Solving+1507.111s]            detach                                 |
+ 1:L| [Solving+1507.111s]            detached db                            |
+ 1:L| [Solving+1507.111s]            removing aux vars                      |
+ 1:L| [Solving+1507.111s]            removing aux constraints               |
+ 1:L| [Solving+1507.111s]            removing aux watches                   |
+ 1:L| [Solving+1507.111s]            detached ctx                           |
+ 1:L| [Solving+1507.112s]            joined                                 |
+ 1:L| [Solving+1507.112s]            destroyed                              |
+ 9:L| [Solving+1507.147s]            detach                                 |
+ 9:L| [Solving+1507.147s]            detached db                            |
+ 9:L| [Solving+1507.147s]            detached ctx                           |
+ 6:L| [Solving+1507.157s]            detach                                 |
+ 6:L| [Solving+1507.157s]            detached db                            |
+ 6:L| [Solving+1507.157s]            detached ctx                           |
+14:L| [Solving+1507.162s]            detach                                 |
+14:L| [Solving+1507.162s]            detached db                            |
+14:L| [Solving+1507.162s]            detached ctx                           |
+10:L| [Solving+1507.168s]            detached ctx                           |
+ 7:L| [Solving+1507.169s]            detached ctx                           |
+ 8:L| [Solving+1507.172s]            detached ctx                           |
+15:L| [Solving+1507.175s]            detached ctx                           |
+ 2:L| [Solving+1507.175s]            detached ctx                           |
+ 2:L| [Solving+1507.175s]            joined                                 |
+ 2:L| [Solving+1507.175s]            destroyed                              |
+12:L| [Solving+1507.176s]            detached ctx                           |
+ 5:L| [Solving+1507.183s]            detached ctx                           |
+11:L| [Solving+1507.199s]            detached ctx                           |
+ 3:L| [Solving+1507.200s]            removing aux vars                      |
+ 3:L| [Solving+1507.200s]            removing aux constraints               |
+ 3:L| [Solving+1507.201s]            removing aux watches                   |
+ 3:L| [Solving+1507.201s]            detached ctx                           |
+ 3:L| [Solving+1507.201s]            joined                                 |
+ 3:L| [Solving+1507.201s]            destroyed                              |
+ 4:L| [Solving+1507.212s]            removing aux vars                      |
+ 4:L| [Solving+1507.212s]            removing aux constraints               |
+ 4:L| [Solving+1507.212s]            removing aux watches                   |
+ 4:L| [Solving+1507.212s]            detached ctx                           |
+ 4:L| [Solving+1507.212s]            joined                                 |
+ 4:L| [Solving+1507.212s]            destroyed                              |
+ 5:L| [Solving+1507.212s]            joined                                 |
+ 5:L| [Solving+1507.212s]            destroyed                              |
+ 6:L| [Solving+1507.212s]            joined                                 |
+ 6:L| [Solving+1507.213s]            destroyed                              |
+ 7:L| [Solving+1507.213s]            joined                                 |
+ 7:L| [Solving+1507.213s]            destroyed                              |
+ 8:L| [Solving+1507.213s]            joined                                 |
+ 8:L| [Solving+1507.213s]            destroyed                              |
+ 9:L| [Solving+1507.213s]            joined                                 |
+ 9:L| [Solving+1507.213s]            destroyed                              |
+10:L| [Solving+1507.213s]            joined                                 |
+10:L| [Solving+1507.213s]            destroyed                              |
+11:L| [Solving+1507.213s]            joined                                 |
+11:L| [Solving+1507.213s]            destroyed                              |
+12:L| [Solving+1507.213s]            joined                                 |
+12:L| [Solving+1507.213s]            destroyed                              |
+13:L| [Solving+1507.216s]            detached ctx                           |
+13:L| [Solving+1507.216s]            joined                                 |
+13:L| [Solving+1507.216s]            destroyed                              |
+14:L| [Solving+1507.216s]            joined                                 |
+14:L| [Solving+1507.216s]            destroyed                              |
+15:L| [Solving+1507.216s]            joined                                 |
+15:L| [Solving+1507.216s]            destroyed                              |
+ 0:X| TERMINATE       completed                           in         0.247s |
+ 0:L| [Solving+1507.569s]            detach                                 |
+ 0:L| [Solving+1507.569s]            detached db                            |
+ 0:L| [Solving+1507.633s]            removing aux vars                      |
+ 0:L| [Solving+1507.633s]            removing aux constraints               |
+ 0:L| [Solving+1507.633s]            removing aux watches                   |
+ 0:L| [Solving+1507.633s]            detached ctx                           |
+----------------------------------------------------------------------------|
+UNKNOWN
+
+INTERRUPTED  : 1
+Models       : 0+
+Bounds       : [211866;*] [0;*]
+Calls        : 1
+Time         : 1797.294s (Solving: 1507.63s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 23626.324s
+Threads      : 16       (Winner: 16)
+
+Choices      : 1974246369 (Domain: 145990775)
+Conflicts    : 2425718  (Analyzed: 2411620)
+Restarts     : 1860     (Average: 1296.57 Last: 147862)
+Problems     : 467      (Average Length: 0.00 Splits: 0)
+Lemmas       : 11531259 (Deleted: 7243115)
+  Binary     : 680226   (Ratio:   5.90%)
+  Ternary    : 560440   (Ratio:   4.86%)
+  Conflict   : 2411588  (Average Length: 1907.1 Ratio:  20.91%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 9119671  (Average Length:  973.4 Ratio:  79.09%) 
+  Distributed: 766450   (Ratio:  31.78% Average LBD: 3.20) 
+  Integrated : 9130097  (Ratio: 1191.22% Unit: 202174 Average Jumps: 5030.94)
+Backjumps    : 2411620  (Average: 387.69 Max: 322930 Sum: 934971616)
+  Executed   : 2411429  (Average: 383.93 Max: 322930 Sum: 925890933 Ratio:  99.03%)
+  Bounded    : 191      (Average: 47542.84 Max: 271503 Sum: 9080683 Ratio:   0.97%)
+
+Rules        : 191770953
+  Choice     : 751     
+  Minimize   : 2       
+Atoms        : 1980948 
+Bodies       : 188101064
+  Count      : 752     
+Equivalences : 2664747  (Atom=Atom: 108752 Body=Body: 750 Other: 2555245)
+Tight        : Yes
+Variables    : 1866875  (Eliminated:    0 Frozen: 1220248)
+Constraints  : 193518930 (Binary:  99.7% Ternary:   0.1% Other:   0.3%)
+
